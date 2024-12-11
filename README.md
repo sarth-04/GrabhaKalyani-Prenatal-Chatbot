@@ -41,24 +41,7 @@ GarbhaKalyani is an AI-powered chatbot designed to provide holistic and personal
 - Metrics such as precision, recall, and F1 scores were used to assess system performance.
 - Comparative analysis with other systems highlighted GarbhaKalyani’s superior accuracy and relevancy.
 
----
 
-## Images
-### System Architecture
-![System Architecture](path/to/system_architecture_image.jpg)
-
-### LangGraph Workflow
-![LangGraph Workflow](path/to/langgraph_workflow_image.jpg)
-
-### Evaluation Metrics Comparison
-![Evaluation Metrics](path/to/evaluation_metrics_image.jpg)
-
-### Faithfulness and Response Relevancy Scores
-![Scores Table](path/to/scores_table_image.jpg)
-
-(*Note: Replace `path/to/` with actual file paths for the images in the repository.*)
-
----
 
 ## How to Run
 
