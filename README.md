@@ -87,7 +87,6 @@ We welcome contributions to improve GarbhaKalyani. Please follow these steps:
 
 ## Authors
 - **Sarthak Ingle** ([f20220037@pilani.bits-pilani.ac.in](mailto:f20220037@pilani.bits-pilani.ac.in))
-- **Rudresh Joshi** ([f20220159@pilani.bits-pilani.ac.in](mailto:f20220159@pilani.bits-pilani.ac.in))
 - **Asst. Prof. Dhruv Kumar** ([dhruv.kumar@pilani.bits-pilani.ac.in](mailto:dhruv.kumar@pilani.bits-pilani.ac.in))
 
 ---
